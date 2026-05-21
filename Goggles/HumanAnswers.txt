@@ -7,9 +7,17 @@
 ! license: MIT
 
 $site=reddit.com,boost=7
-$site=quora.com,boost=2
 
 $site=stackoverflow.com,boost=5
+$site=github.com,boost=3
 $site=ifixit.com,boost=5
 
 $site=trustpilot.com,boost=3
+
+$site=msn.com,downrank=5
+$site=temu.com,downrank=6
+
+$site=geeksforgeeks.org,downrank=5
+$site=tutorialspoint.com,downrank=5
+
+$site=perplexity.ai,downrank=7
