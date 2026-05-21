@@ -2,6 +2,9 @@
 ! description: Boost rankings for the core national ministries, the 12 provinces, and the 21 water boards.
 ! public: true
 ! author: PixelIndieDev
+! issues: https://github.com/PixelIndieDev/Public-Brave-Goggles-PixelIndieDev/issues
+! avatar: #154273
+! license: MIT
 
 ! --- CORE NATIONAL PORTALS & AGENCIES ---
 $site=rijksoverheid.nl,boost=3
