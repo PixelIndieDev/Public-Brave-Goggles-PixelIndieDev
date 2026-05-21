@@ -1,0 +1,28 @@
+! name: Coding Searches
+! description: Prioritizes MDN, W3Schools and official docs.
+! public: public
+! author: PixelIndieDev
+! issues: https://github.com/PixelIndieDev/Public-Brave-Goggles-PixelIndieDev/issues
+! avatar: #6b00f2
+! license: MIT
+
+$site=developer.mozilla.org,boost=5
+$site=w3schools.com,boost=4
+$site=caniuse.com,boost=3
+
+$site=github.com,boost=3
+$site=stackoverflow.com,boost=3
+
+$site=docs.python.org,boost=4
+$site=npmjs.com,boost=3
+$site=react.dev,boost=3
+$site=vuejs.org,boost=3
+$site=typescriptlang.org,boost=3
+$site=developer.android.com,boost=3
+$site=developer.apple.com,boost=3
+
+$site=learn.microsoft.com,boost=2
+
+$site=geeksforgeeks.org,downrank=3
+$site=tutorialspoint.com,downrank=3
+$site=medium.com,downrank=2
