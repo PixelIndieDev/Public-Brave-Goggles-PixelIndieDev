@@ -1,0 +1,26 @@
+! name: Dutch Media
+! description: Prioritizes Dutch news and public broadcasting.
+! public: true
+! author: PixelIndieDev
+! issues: https://github.com/PixelIndieDev/Public-Brave-Goggles-PixelIndieDev/issues
+! avatar: #00aaec
+! license: MIT
+
+$site=nos.nl,boost=4
+$site=rtlnieuws.nl,boost=3
+$site=nu.nl,boost=3
+$site=telegraaf.nl,boost=2
+
+$site=tweakers.net,boost=4
+
+$site=volkskrant.nl,boost=4
+$site=nrc.nl,boost=4
+$site=trouw.nl,boost=3
+
+$site=npo.nl,boost=4
+
+$site=at5.nl,boost=3
+$site=omroepwest.nl,boost=3
+$site=rijnmond.nl,boost=3
+$site=omroepbrabant.nl,boost=3
+$site=rtvnoord.nl,boost=3
