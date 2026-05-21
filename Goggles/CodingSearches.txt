@@ -1,6 +1,6 @@
 ! name: Coding Searches
 ! description: Prioritizes MDN, W3Schools and official docs.
-! public: public
+! public: true
 ! author: PixelIndieDev
 ! issues: https://github.com/PixelIndieDev/Public-Brave-Goggles-PixelIndieDev/issues
 ! avatar: #6b00f2

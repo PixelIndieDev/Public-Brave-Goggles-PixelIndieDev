@@ -1,6 +1,6 @@
 ! name: Block Grokipedia
 ! description: Blocks Grokipedia from appearing in search results.
-! public: public
+! public: true
 ! author: PixelIndieDev
 ! issues: https://github.com/PixelIndieDev/Public-Brave-Goggles-PixelIndieDev/issues
 ! avatar: #141414
