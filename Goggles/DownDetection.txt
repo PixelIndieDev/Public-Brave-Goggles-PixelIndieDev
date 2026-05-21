@@ -1,0 +1,12 @@
+! name: Down Detection
+! description: Prioritizes outage checker domains.
+! public: true
+! author: PixelIndieDev
+! issues: https://github.com/PixelIndieDev/Public-Brave-Goggles-PixelIndieDev/issues
+! avatar: #ff0000
+! license: MIT
+
+$site=downdetector.com,boost=6
+$site=allestoringen.nl,boost=3
+
+$site=radar.cloudflare.com,boost=4
