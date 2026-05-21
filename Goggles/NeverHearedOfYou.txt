@@ -1,0 +1,17 @@
+! name: Never Heared Of You
+! description: Deranks unknown websites in search results.
+! public: true
+! author: PixelIndieDev
+! issues: https://github.com/PixelIndieDev/Public-Brave-Goggles-PixelIndieDev/issues
+! avatar: #ffb913
+! license: MIT
+
+$site=seniorweb.nl,downrank=10
+$site=getapp.nl,downrank=10
+$site=androidworld.nl,downrank=10
+
+$site=aikido.dev,downrank=10
+$site=bleepingcomputer.com,downrank=10
+$site=blog.gitguardian.com,downrank=10
+$site=thehackernews.com,downrank=10
+
