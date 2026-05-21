@@ -1,0 +1,15 @@
+! name: Human Answers & Community Solutions
+! description: Prioritizes crowdsourced advice and user review platforms.
+! public: true
+! author: PixelIndieDev
+! issues: https://github.com/PixelIndieDev/Public-Brave-Goggles-PixelIndieDev/issues
+! avatar: #3fe900
+! license: MIT
+
+$site=reddit.com,boost=7
+$site=quora.com,boost=2
+
+$site=stackoverflow.com,boost=5
+$site=ifixit.com,boost=5
+
+$site=trustpilot.com,boost=3
