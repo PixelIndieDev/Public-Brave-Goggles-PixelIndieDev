@@ -6,4 +6,4 @@
 ! avatar: #141414
 ! license: MIT
 
-$discard,domain=grokipedia.com
+$discard,site=grokipedia.com
