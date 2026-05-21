@@ -1,0 +1,57 @@
+! name Dutch Public Sector
+! description Boost rankings for the core national ministries, the 12 provinces, and the 21 water boards.
+! public true
+! author PixelIndieDev
+
+! --- CORE NATIONAL PORTALS & AGENCIES ---
+$site=rijksoverheid.nl,boost=3
+$site=overheid.nl,boost=3
+$site=digid.nl,boost=3
+$site=belastingdienst.nl,boost=3
+$site=uwv.nl,boost=3
+$site=politie.nl,boost=3
+$site=rechtspraak.nl,boost=3
+$site=cbs.nl,boost=3
+$site=officielebekendmakingen.nl,boost=2
+$site=rivm.nl,boost=3
+$site=duo.nl,boost=3
+$site=rijkswaterstaat.nl,boost=3
+$site=ind.nl,boost=3
+
+! --- PROVINCES ---
+$site=provinciedrenthe.nl,boost=2
+$site=flevoland.nl,boost=2
+$site=fryslan.frl,boost=2
+$site=gelderland.nl,boost=2
+$site=provinciegroningen.nl,boost=2
+$site=limburg.nl,boost=2
+$site=brabant.nl,boost=2
+$site=noord-holland.nl,boost=2
+$site=overijssel.nl,boost=2
+$site=zuid-holland.nl,boost=2
+$site=provincie-utrecht.nl,boost=2
+$site=zeeland.nl,boost=2
+
+! --- WATER BOARDS ---
+$site=aaenmaas.nl,boost=2
+$site=agv.nl,boost=2
+$site=brabantsedelta.nl,boost=2
+$site=hhdelfland.nl,boost=2
+$site=dommel.nl,boost=2
+$site=wdodelta.nl,boost=2
+$site=hhnk.nl,boost=2
+$site=wshd.nl,boost=2
+$site=hunzeenaas.nl,boost=2
+$site=waterschaplimburg.nl,boost=2
+$site=noorderzijlvest.nl,boost=2
+$site=wrij.nl,boost=2
+$site=rijnland.net,boost=2
+$site=waterschaprivierenland.nl,boost=2
+$site=scheldestromen.nl,boost=2
+$site=schielandendekrimpenerwaard.nl,boost=2
+$site=hdestichtserijnlanden.nl,boost=2
+$site=vallei-veluwe.nl,boost=2
+$site=vechtstromen.nl,boost=2
+$site=waternet.nl,boost=2
+$site=wetterskipfryslan.nl,boost=2
+$site=zuiderzeeland.nl,boost=2
