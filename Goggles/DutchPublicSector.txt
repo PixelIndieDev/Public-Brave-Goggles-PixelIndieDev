@@ -1,7 +1,7 @@
-! name Dutch Public Sector
-! description Boost rankings for the core national ministries, the 12 provinces, and the 21 water boards.
-! public true
-! author PixelIndieDev
+! name: Dutch Public Sector
+! description: Boost rankings for the core national ministries, the 12 provinces, and the 21 water boards.
+! public: true
+! author: PixelIndieDev
 
 ! --- CORE NATIONAL PORTALS & AGENCIES ---
 $site=rijksoverheid.nl,boost=3
