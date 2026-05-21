@@ -1,0 +1,6 @@
+! name: Block Grokipedia
+! description: Blocks Grokipedia from appearing in search results.
+! public: public
+! avatar: #141414
+
+$discard,domain=grokipedia.com
