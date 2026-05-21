@@ -1,0 +1,34 @@
+! name: Dutch Pharmaceutical & Hospitals
+! description: Boosts rankings for Dutch pharmaceuticals and major hospital domains.
+! public: true
+! author: PixelIndieDev
+! issues: https://github.com/PixelIndieDev/Public-Brave-Goggles-PixelIndieDev/issues
+! avatar: #ffffff
+! license: MIT
+
+$site=farmacotherapeutischkompas.nl,boost=3
+$site=apotheek.nl,boost=4
+$site=knmp.nl,boost=3
+$site=cbg-meb.nl,boost=3
+
+$site=amsterdamumc.org,boost=3
+$site=amsterdamumc.nl,boost=3
+$site=erasmusmc.nl,boost=3
+$site=umcutrecht.nl,boost=3
+$site=radboudumc.nl,boost=3
+$site=lumc.nl,boost=3
+$site=umcg.nl,boost=3
+$site=mumc.nl,boost=3
+$site=avl.nl,boost=3
+$site=olvg.nl,boost=3
+$site=isala.nl,boost=3
+$site=amphia.nl,boost=3
+$site=catharinaziekenhuis.nl,boost=3
+$site=jeroenboschziekenhuis.nl,boost=3
+$site=haaglandenmc.nl,boost=3
+$site=hagaziekenhuis.nl,boost=3
+$site=mst.nl,boost=3
+$site=rijnstate.nl,boost=3
+$site=maasstadziekenhuis.nl,boost=3
+$site=stanna.nl,boost=3
+$site=antoniusziekenhuis.nl,boost=3
